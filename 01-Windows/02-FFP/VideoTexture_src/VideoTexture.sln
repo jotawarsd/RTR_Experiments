@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VideoTexture", "VideoTexture\VideoTexture.vcxproj", "{F6500AB8-979A-486F-8F9A-0A67D5D1FFFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6500AB8-979A-486F-8F9A-0A67D5D1FFFA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F6500AB8-979A-486F-8F9A-0A67D5D1FFFA}.Debug|Win32.Build.0 = Debug|Win32
+		{F6500AB8-979A-486F-8F9A-0A67D5D1FFFA}.Release|Win32.ActiveCfg = Release|Win32
+		{F6500AB8-979A-486F-8F9A-0A67D5D1FFFA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2D5C85A-AE06-4E14-AC82-5FE4E65E37E6}
+	EndGlobalSection
+EndGlobal

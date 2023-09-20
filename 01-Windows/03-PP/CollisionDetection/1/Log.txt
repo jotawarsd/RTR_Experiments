@@ -1,0 +1,7 @@
+Log File Created Successfully!
+Initialization successful!
+Current context initialized to NULL
+Current context deleted
+Device context released
+Window destroyed
+Log File closed successfully!

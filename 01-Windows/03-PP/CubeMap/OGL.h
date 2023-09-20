@@ -1,0 +1,9 @@
+#pragma once
+
+#define MYICON 69
+#define IDBITMAP_CUBE1 420
+#define IDBITMAP_CUBE2 421
+#define IDBITMAP_CUBE3 422
+#define IDBITMAP_CUBE4 423
+#define IDBITMAP_CUBE5 424
+#define IDBITMAP_CUBE6 425

@@ -1,0 +1,10 @@
+Log File Created Successfully!
+Number of CUDA Supported devices: 1
+Initialization successful!
+cudaGraphicsResourceGetMappedPointer() failed!!
+cudaGraphicsUnmapResources() failed!!
+Current context initialized to NULL
+Current context deleted
+Device context released
+Window destroyed
+Log File closed successfully!

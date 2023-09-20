@@ -1,0 +1,8 @@
+Log File Created Successfully!
+Frame buffer creation successful!!
+Initialization successful!
+Current context initialized to NULL
+Current context deleted
+Device context released
+Window destroyed
+Log File closed successfully!

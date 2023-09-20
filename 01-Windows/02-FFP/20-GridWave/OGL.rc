@@ -1,0 +1,4 @@
+#include "OGL.h"
+
+MYICON ICON sdj.ico
+IDBITMAP_OCEAN BITMAP Ocean.bmp

@@ -1,0 +1,4 @@
+#include "Win1.h"
+
+MYICON ICON sdj.ico
+MYCURSOR CURSOR sdj.cur

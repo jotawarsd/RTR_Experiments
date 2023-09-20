@@ -1,0 +1,3 @@
+#include "Windows.h"
+
+MYICON ICON sdj.ico

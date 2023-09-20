@@ -1,0 +1,4 @@
+#include "Window.h"
+
+MYICON ICON sdj.ico
+MYICONSM ICON sdjsm.ico

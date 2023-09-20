@@ -1,0 +1,3 @@
+#include "Mandelbrot.h"
+
+MYICON ICON sdj.ico

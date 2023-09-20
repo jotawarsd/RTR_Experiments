@@ -1,0 +1,19 @@
+const GLchar* fragmentShaderSourceCode = 
+		"#version 460 core" \
+		"\n" \
+		"in vec2 a_texcoord_out;" \
+		"uniform float u_time;" \
+		"uniform vec2 u_resolution;" \
+		"uniform sampler2D u_textureSampler;" \
+		"out vec4 FragColor;" \
+
+		"void main(void)" \
+		"{" \
+		"vec2 st = a_texcoord_out;" \
+
+		"st *= 1.0 - st.yx;" \
+		"float vignette = st.x * st.y * 15.0;" \
+		"vignette = pow(vignette, 0.25);" \
+
+		"FragColor = vec4(vignette);" \
+		"}";

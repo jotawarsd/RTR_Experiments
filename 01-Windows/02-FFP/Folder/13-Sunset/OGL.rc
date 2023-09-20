@@ -1,0 +1,5 @@
+#include "OGL.h"
+
+MYICON ICON sdj.ico
+IDBITMAP_STARS BITMAP Stars.bmp
+IDBITMAP_PLAIN BITMAP Plain.bmp

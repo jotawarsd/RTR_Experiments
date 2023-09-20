@@ -1,0 +1,3 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  VideoTexture.cpp
+C:\RTR4-misc\04-OpenGL\01-Windows\02-FFP\VideoTexture_src\VideoTexture\VideoTexture.cpp(24,10): fatal  error C1083: Cannot open include file: 'cv.h': No such file or directory
